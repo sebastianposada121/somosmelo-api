@@ -9,7 +9,7 @@ public class SomosMeloApiApplication {
     public static void main(String[] args) {
         SpringApplication.run(SomosMeloApiApplication.class, args);
 
-        System.out.println("hello");
+        System.out.println("hello from dockerfile");
 
     }
 
